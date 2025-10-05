@@ -1,0 +1,5 @@
+{
+  "name": "Multan Floods 2025 Analysis",
+  "description": "A data-driven web application analyzing the extent of the 2025 Multan floods using NASA's Sentinel-1 Synthetic Aperture Radar data, created for the NASA Space Apps Challenge.",
+  "requestFramePermissions": []
+}
